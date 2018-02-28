@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{original}
+I.~Brazzoli, E.~D. Angelis, P.-E. Jabin, A mathematical model of immune
+  competition related to cancer dynamics, Mathematical Methods in the Applied
+  Sciences 33.
+\newblock \href {http://dx.doi.org/10.1002/mma.1190}
+  {\path{doi:10.1002/mma.1190}}.
+
+\bibitem{libro}
+N.~Bellomo, Modeling Complex Living Systems: A Kinetic Theory and Stochastic
+  Game Approach (Modeling and Simulation in Science, Engineering and
+  Technology), 1st Edition, Birkhäuser Boston, 2007.
+
+\bibitem{existencia}
+E.~D. Angelis, P.-E. Jabin, Mathematical models of therapeutical actions
+  related to tumour and immune system competition, Mathematical Methods in the
+  Applied Sciences 28.
+\newblock \href {http://dx.doi.org/10.1002/mma.656}
+  {\path{doi:10.1002/mma.656}}.
+
+\bibitem{elvesier}
+E.~D. Angelis, B.~Lods, On the kinetic theory for active particles: A model for
+  tumor–immune system competition, Mathematical and Computer Modelling 47.
+\newblock \href {http://dx.doi.org/10.1016/j.mcm.2007.02.016}
+  {\path{doi:10.1016/j.mcm.2007.02.016}}.
+
+\bibitem{pdf}
+E.~De~Angelis, L.~Mesin, Modelling of the immune response: Conceptual
+  frameworks and applications, Mathematical Models and Methods in Applied
+  Sciences 11.
+\newblock \href {http://dx.doi.org/10.1142/S0218202501001501}
+  {\path{doi:10.1142/S0218202501001501}}.
+
+\bibitem{textolargo}
+E.~De~Angelis, Jabin, Pierre-enmanuelle, Qualitative analysis of a mean field
+  model of tumor-immune system competition, Mathematical Models and Methods in
+  Applied Sciences 13.
+\newblock \href {http://dx.doi.org/10.1142/S0218202503002453}
+  {\path{doi:10.1142/S0218202503002453}}.
+
+\bibitem{bellomo}
+N.~Bellomo, A.~Bellouquid, M.~Delitala, From the mathematical kinetic theory of
+  active particles to multiscale modelling of complex biological systems,
+  Mathematical and Computer Modelling 47~(7) (2008) 687--698.
+
+\end{thebibliography}
